@@ -38,5 +38,12 @@ This repository contains a Unity terrain project that showcases a basic 3D envir
 - Add more Unity projects to this folder over time
 - Keep improving the terrain design and assets
 
+## Ongoing Project Demo
+<div align="center">
+<img width="316" height="440" alt="Shadow Tap" src="https://github.com/user-attachments/assets/2917ed91-21be-45b9-b94e-d727ade0ffc5" /> 
+</div>
+<br>
+Currently, I am developing Shadow Tap, a fast-paced 2D reaction game in Unity programmed with C#. In this game, characters quickly appear and disappear between shadows, and the player must tap only when a character is fully visible in the light to score points. Tapping at the wrong time reduces the score, and the game gets faster as it goes, making it more challenging and engaging.
+
 ---
 Feel free to check back later for updates!
